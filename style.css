@@ -57,7 +57,7 @@ body {
 .image {
     width: 540px;
     height: 446px;
-    background: linear-gradient(rgba(73, 38, 95, 0.65), rgba(73, 38, 95, 0.65)), url('/images/image-header-desktop.jpg');
+    background: linear-gradient(rgba(73, 38, 95, 0.65), rgba(73, 38, 95, 0.65)), url('./images/image-header-desktop.jpg');
     border-radius: 0 5px 5px 0;
 
 }
